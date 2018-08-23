@@ -6,8 +6,8 @@ Construire un DW pour stocker les données électorales, et les méthodes d'anal
 
 # Données
 
-*Données électorales des élections legislatives (se limiter à la période 90-présent, en éliminant les partielles), disponnibles ici, conseil utiliser les données dun ministère de l'intérieur.
-*cToutes données de l'INSÉÉ jugées pertinentes.
+* Données électorales des élections legislatives (se limiter à la période 90-présent, en éliminant les partielles), disponnibles ici, conseil utiliser les données dun ministère de l'intérieur.
+* Toutes données de l'INSÉÉ jugées pertinentes.
 
 # Analyse
 
