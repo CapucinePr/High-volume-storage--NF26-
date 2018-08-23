@@ -13,7 +13,7 @@ Construire un DW pour stocker les données électorales, et les méthodes d'anal
 
 ## Il s'agira de pouvoir répondre aux questions suivantes:
 
-* Taux lors d'un suffrage de vote (ou abstension) à tous les niveaux de granularité géographiques appripriés et disponnibles (bureaux, commune, dpt…)
+* Taux lors d'un suffrage de vote (ou abstension) à tous les niveaux de granularité géographiques appripriés et disponibles (bureaux, commune, dpt…)
 * scores pour les différents mouvements politiques
 * Évolution entre les suffrages des taux précités.
 * Analyser le vote/abstension et le scores des mvt politiques en fonction de d'indicateurs socio-économiques, p.ex.
